@@ -1,0 +1,139 @@
+\begin{thebibliography}{10}
+
+\bibitem{bittorrent}
+Bram Cohen.
+\newblock Incentives build robustness in bittorrent.
+\newblock In {\em Workshop on Economics of Peer-to-Peer systems}, volume~6,
+  pages 68--72, 2003.
+
+\bibitem{induced}
+Tyson Condie, Varun Kacholia, Sriram Sank, Joseph~M Hellerstein, and Petros
+  Maniatis.
+\newblock Induced churn as shelter from routing-table poisoning.
+\newblock In {\em NDSS}, 2006.
+
+\bibitem{dynamo}
+Giuseppe DeCandia, Deniz Hastorun, Madan Jampani, Gunavardhan Kakulapati,
+  Avinash Lakshman, Alex Pilchin, Swaminathan Sivasubramanian, Peter Vosshall,
+  and Werner Vogels.
+\newblock Dynamo: amazon's highly available key-value store.
+\newblock In {\em ACM SIGOPS Operating Systems Review}, volume~41, pages
+  205--220. ACM, 2007.
+
+\bibitem{evomedia}
+R.~{Farahbakhsh}, N.~{Crespi}, Á. {Cuevas}, R.~{Cuevas}, and R.~{González}.
+\newblock Understanding the evolution of multimedia content in the internet
+  through bittorrent glasses.
+\newblock {\em IEEE Network}, 27(6):80--88, November 2013.
+
+\bibitem{kleinberg2000small}
+Jon Kleinberg.
+\newblock The small-world phenomenon: An algorithmic perspective.
+\newblock In {\em Proceedings of the thirty-second annual ACM symposium on
+  Theory of computing}, pages 163--170. ACM, 2000.
+
+\bibitem{kleinberg2000navigation}
+Jon~M Kleinberg.
+\newblock Navigation in a small world.
+\newblock {\em Nature}, 406(6798):845--845, 2000.
+
+\bibitem{li2013zht}
+Tonglin Li, Xiaobing Zhou, Kevin Brandstatter, Dongfang Zhao, Ke~Wang, Anupam
+  Rajendran, Zhao Zhang, and Ioan Raicu.
+\newblock Zht: A light-weight reliable persistent dynamic scalable zero-hop
+  distributed hash table.
+\newblock In {\em Parallel \& Distributed Processing (IPDPS), 2013 IEEE 27th
+  International Symposium on}, pages 775--787. IEEE, 2013.
+
+\bibitem{symphony}
+Gurmeet~Singh Manku, Mayank Bawa, Prabhakar Raghavan, et~al.
+\newblock Symphony: {D}istributed {H}ashing in a {S}mall {W}orld.
+\newblock In {\em USENIX Symposium on Internet Technologies and Systems},
+  page~10, 2003.
+
+\bibitem{kademlia}
+Petar Maymounkov and David Mazieres.
+\newblock Kademlia: A peer-to-peer information system based on the xor metric.
+\newblock In {\em Peer-to-Peer Systems}, pages 53--65. Springer, 2002.
+
+\bibitem{milgram1967small}
+Stanley Milgram.
+\newblock The small world problem.
+\newblock {\em Psychology today}, 2(1):60--67, 1967.
+
+\bibitem{prr}
+C.~Greg Plaxton, Rajmohan Rajaraman, and Andr{\'e}a~W. Richa.
+\newblock Accessing nearby copies of replicated objects in a distributed
+  environment.
+\newblock In {\em Proceedings of the Ninth Annual ACM Symposium on Parallel
+  Algorithms and Architectures}, SPAA '97, pages 311--320, New York, NY, USA,
+  1997. ACM.
+
+\bibitem{plaxton1999accessing}
+C~Greg Plaxton, Rajmohan Rajaraman, and Andrea~W Richa.
+\newblock Accessing nearby copies of replicated objects in a distributed
+  environment.
+\newblock {\em Theory of Computing Systems}, 32(3):241--280, 1999.
+
+\bibitem{can}
+Sylvia Ratnasamy, Paul Francis, Mark Handley, Richard Karp, and Scott Shenker.
+\newblock A scalable content-addressable network.
+\newblock 2001.
+
+\bibitem{ratnasamy2002ght}
+Sylvia Ratnasamy, Brad Karp, Li~Yin, Fang Yu, Deborah Estrin, Ramesh Govindan,
+  and Scott Shenker.
+\newblock Ght: a geographic hash table for data-centric storage.
+\newblock In {\em Proceedings of the 1st ACM international workshop on Wireless
+  sensor networks and applications}, pages 78--87. ACM, 2002.
+
+\bibitem{MeNTor}
+Michael Rethfeldt, Benjamin Beichler, Peter Danielis, Felix Uster, Christian
+  Haubelt, and Dirk Timmermann.
+\newblock Mentor: A wireless-mesh-network-aware data dissemination overlay
+  based on bittorrent.
+\newblock {\em Ad Hoc Networks}, 79:146 -- 159, 2018.
+
+\bibitem{pastry}
+Antony Rowstron and Peter Druschel.
+\newblock Pastry: Scalable, decentralized object location, and routing for
+  large-scale peer-to-peer systems.
+\newblock In {\em Middleware 2001}, pages 329--350. Springer, 2001.
+
+\bibitem{stevens2012attacks}
+Marc Martinus~Jacobus Stevens et~al.
+\newblock {\em Attacks on hash functions and applications}.
+\newblock Mathematical Institute, Faculty of Science, Leiden University, 2012.
+
+\bibitem{chord}
+Ion Stoica, Robert Morris, David Karger, M.~Frans Kaashoek, and Hari
+  Balakrishnan.
+\newblock Chord: {A} {S}calable {P}eer-to-{P}eer {L}ookup {S}ervice for
+  {I}nternet {A}pplications.
+\newblock {\em SIGCOMM Comput. Commun. Rev.}, 31:149--160, August 2001.
+
+\bibitem{btsyncforensic}
+T.Y. Yang, A.~Dehghantanha, K.-K.R. Choo, and Z.~Muda.
+\newblock Forensic investigation of p2p cloud storage: Bittorrent sync as a
+  case study.
+\newblock {\em Computers \& Electrical Engineering}, 58:350--363, February
+  2017.
+\newblock {\copyright} 2017 Elsevier. This is an author produced version of a
+  paper subsequently published in Computers and Electrical Engineering.
+  Uploaded in accordance with the publisher's self-archiving policy. Article
+  available under the terms of the CC-BY-NC-ND licence
+  (https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+\bibitem{zave2012using}
+Pamela Zave.
+\newblock Using lightweight modeling to understand chord.
+\newblock {\em ACM SIGCOMM Computer Communication Review}, 42(2):49--57, 2012.
+
+\bibitem{tapestry}
+Ben~Y Zhao, Ling Huang, Jeremy Stribling, Sean~C Rhea, Anthony~D Joseph, and
+  John~D Kubiatowicz.
+\newblock Tapestry: A resilient global-scale overlay for service deployment.
+\newblock {\em Selected Areas in Communications, IEEE Journal on},
+  22(1):41--53, 2004.
+
+\end{thebibliography}

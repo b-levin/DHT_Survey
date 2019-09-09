@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: survey.aux
+The style file: plain.bst
+Database file #1: notes.bib
+Database file #2: dht.bib
+Database file #3: mapreduce.bib
+Database file #4: voronoi.bib
+Database file #5: dns.bib
+Database file #6: botnets.bib
+Database file #7: bitcoin.bib
+Database file #8: mine.bib
+Database file #9: bt.bib
+Warning--can't use both volume and number fields in dynamo
+Warning--empty journal in can
+You've used 21 entries,
+            2118 wiz_defined-function locations,
+            641 strings with 8438 characters,
+and the built_in function-call counts, 8846 in all, are:
+= -- 875
+> -- 463
+< -- 11
++ -- 186
+- -- 162
+* -- 649
+:= -- 1422
+add.period$ -- 71
+call.type$ -- 21
+change.case$ -- 141
+chr.to.int$ -- 0
+cite$ -- 23
+duplicate$ -- 333
+empty$ -- 650
+format.name$ -- 162
+if$ -- 1878
+int.to.chr$ -- 0
+int.to.str$ -- 21
+missing$ -- 22
+newline$ -- 109
+num.names$ -- 42
+pop$ -- 155
+preamble$ -- 1
+purify$ -- 121
+quote$ -- 0
+skip$ -- 240
+stack$ -- 0
+substring$ -- 543
+swap$ -- 102
+text.length$ -- 11
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 82
+warning$ -- 2
+while$ -- 83
+width$ -- 23
+write$ -- 242
+(There were 2 warnings)
